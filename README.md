@@ -25,5 +25,9 @@ Here are some ideas to get you started:
 <a href="http://stardiviner.github.io/">
   <img src="http://stardiviner.github.io/About/data/images/me_picture%2023.jpg" width="20%" align="left">
 </a>
-  Someday, I will change, but I want to start from now. Just this moment.
+  喜欢了解很多东西，哲学，心理学，商业，编程，创业，科技，金融，等等。虽然涉猎广泛，但是并没有特别精通的。好在虽无一专长，却能融会贯通，思考事物的角度新颖，多面，独特。
+  本身是个俗人，喜欢漂亮妹子，自己长得并不帅，但是我追求的就是我的追求。
+  想要对俗世做到尽量达观，但是很难否定有时候就是嫌事情麻烦，懒得处理。
+  并不是不善交际，只是不喜欢应酬形式虚伪的交际，喜欢简单并尽量直接点的人际关系。不然就是浪费生命了。
+  想要去世界上走走看看，还未成行....会做到的。
 </p>
