@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 <p>本身是个俗人，喜欢漂亮妹子，自己长得并不帅，但是我追求的就是我的追求。想要对俗世做到尽量达观，但是很难否定有时候就是嫌事情麻烦，懒得处理。并不是不善交际，只是不喜欢应酬形式虚伪的交际，喜欢简单并尽量直接点的人际关系。不然就是浪费生命了。</p>
 <p>想要去世界上走走看看，还未成行....会做到的。</p>
 </p>
+
+**UPDATE**
+Because of GitHub will threat user account, (background here: https://twitter.com/marak/status/1479200803948830724) So I just deleted all code repositories on GitHub and dump it into trash now. Deleteing really wasted lot of my time. Fuc*k GitHub!!! Yeah!!!
